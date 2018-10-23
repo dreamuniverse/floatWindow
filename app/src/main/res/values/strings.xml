@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FloatWindow</string>
+    <string name="name">FloatWindow</string>
+    <string name="go_to_next">go to next activity</string>
+</resources>
